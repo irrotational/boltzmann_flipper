@@ -17,6 +17,8 @@ python3 boltzmann_flipper.py -initial_distribution uniform
 
 Again, the lattice should equilibriate to a Boltzmann distribution provided a sufficient number of timesteps has passed.
 
+As an example, starting with a random distribution of 1s and 0s, the starting and final distributions should look something like:
+
 <p> <br> </p>
 <p>
     <img src="./example.png" width="550" height="425" />
