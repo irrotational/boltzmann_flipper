@@ -16,3 +16,9 @@ Which will do the same, but now for a 100x100 square lattice. To change the star
 python3 boltzmann_flipper.py -initial_distribution uniform
 
 Again, the lattice should equilibriate to a Boltzmann distribution provided a sufficient number of timesteps has passed.
+
+<p> <br> </p>
+<p>
+    <img src="./example.pdf" width="550" height="425" />
+</p>
+<p> <br> </p>
