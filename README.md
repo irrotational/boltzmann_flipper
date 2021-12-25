@@ -19,6 +19,6 @@ Again, the lattice should equilibriate to a Boltzmann distribution provided a su
 
 <p> <br> </p>
 <p>
-    <img src="./example.pdf" width="550" height="425" />
+    <img src="./example.png" width="550" height="425" />
 </p>
 <p> <br> </p>
