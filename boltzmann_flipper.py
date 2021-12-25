@@ -8,7 +8,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument("-lattice_size",type=int,default=70,help="The size of the square 2D lattice.")
+parser.add_argument("-lattice_size",type=int,default=50,help="The size of the square 2D lattice.")
 parser.add_argument("-initial_distribution",type=str,default="random",help="""Choose from 'random' or 'uniform'. If 'random', every lattice
 	site will be randomly populated with a 0 or 1. If 'uniform', all lattice sites will initially be populated with a 1.""")
 parser.add_argument("-timesteps",type=int,default=10000,help="The number of timesteps to run the simulation for.")
